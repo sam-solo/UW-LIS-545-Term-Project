@@ -1,0 +1,39 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+  <identifier identifierType="DOI">10.5072/D3P26Q35R-Test</identifier>
+  <creators>
+    <creator>
+    <creatorName nameType="Personal"> Zhang, Xiang </creatorName>
+<givenName>Xiang</givenName>
+<familyName>Zhang</familyName>
+</creator>
+<creator>
+<creatorName nameType="Personal">Wertz, Ruth</creatorName>
+<givenName>Ruth</givenName>
+<familyName>Wertz</familyName>
+</creator>
+<creator>
+<creatorName nameType="Personal">Purzer, Senay</creatorName>
+<givenName>Senay</givenName>
+<familyName>Purzer</familyName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Yahoo! Answers Topic Classification</title>
+</titles>
+<publisher xml:lang="en">Purdue University Research Repository (PURR)</publisher>
+<publicationYear>2013</publicationYear>
+<subjects>
+<subject xml:lang="en">Machine Learning</subject>
+<subject xml:lang="en">Social Studies</subject>
+<subject xml:lang="en">Math and Science</subject>
+<subject xml:lang="en">Sports</subject>
+<subject xml:lang="en">Technology</subject>
+<subject xml:lang="en">Social Media</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract">The Yahoo! Answers topic classification dataset is constructed using the 10 largest main categories. Each class contains 140,000 training samples and 6,000 testing samples. Therefore, the total number of training samples is 1,400,000, and testing samples are 60,000 in this dataset. From all the answers and other meta-information, we only used the best answer content and the main category information.</description>
+</descriptions>
+</resource>
