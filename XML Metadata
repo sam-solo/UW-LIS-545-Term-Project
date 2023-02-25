@@ -7,20 +7,13 @@
 <familyName>Zhang</familyName>
 </creator>
 <creator>
-<creatorName nameType="Personal">Wertz, Ruth</creatorName>
-<givenName>Ruth</givenName>
-<familyName>Wertz</familyName>
+<creatorName nameType="Corporate">Yahoo! Answers Research Alliance</creatorName>
 </creator>
 <creator>
-<creatorName nameType="Personal">Purzer, Senay</creatorName>
-<givenName>Senay</givenName>
-<familyName>Purzer</familyName>
-</creator>
-</creators>
 <titles>
 <title xml:lang="en">Yahoo! Answers Topic Classification</title>
 </titles>
-<publisher xml:lang="en">Purdue University Research Repository (PURR)</publisher>
+<publisher xml:lang="en">Purdue University Research Repository(PURR)</publisher>
 <publicationYear>2013</publicationYear>
 <subjects>
 <subject xml:lang="en">Machine Learning</subject>
