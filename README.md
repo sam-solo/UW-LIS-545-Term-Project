@@ -1,4 +1,4 @@
-# UW-demo
+# UW-LIS-545-Term-Project
 Draft for LIS 545 Term Project 
 
 This document describes the files in this repository. The dataset, titled Yahoo! Answers Topic Classification, originally consisted of two data sets: a dataset intended for training an algorithm or AI in text classification and machine learning, and another dataset for testing the algorithm. This structure is typical for those disciplines. The training dataset was a large file, and had to be split into multiple different .CSV files to meet GitHub's submission standards. The testing.csv dataset was also too large for GitHub's submission restrictions, and was converted to a zip file. 
