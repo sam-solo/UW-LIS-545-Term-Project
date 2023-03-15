@@ -6,3 +6,5 @@ This document describes the files in this repository. The dataset, titled Yahoo!
 The file test.csv.zip is the dataset containing test data. Files train-01.csv - train-56.csv are the culimatation of the train.csv dataset, organized in split files marked sequentially. The file manifest.txt describes the files that are were generated from the split program.
 
 The file Term Project Paper contains a Data and Metadata Profile of the dataset, and it contains a Respository Profile on the Social Computing Data Repository, which would be an appropriate fit for the dataset. 
+
+The XML Metadata file contains XML metadata on the dataset. 
